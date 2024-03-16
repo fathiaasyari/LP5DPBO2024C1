@@ -13,7 +13,7 @@ Sebuah program CRUD sederhana terkait dengan data mahasiswa mennggunakan JavaSwi
 
 
 # Dokumentasi 
-[Klik di sini untuk menonton video demo](https://github.com/fathiaasyari/LP5DPBO2024C1/tree/9e26705b989c1518ee734a12be7e0fd9de97cb98/Screenrecord)
+![Screenshot 2024-02-16 125328.png](https://github.com/fathiaasyari/LP5DPBO2024C1/blob/ee878a0df35bfe19d91ac0154604e3ed56af46da/screenshoot/Screenshot%202024-03-16%20194548.png)
 
 
 
